@@ -1,0 +1,5 @@
+Aprendizagem de git:
+- Criar minha propria pagina;
+- Interação com o git;
+- criando um repositorio;
+- Fazendo chaves e criando;
