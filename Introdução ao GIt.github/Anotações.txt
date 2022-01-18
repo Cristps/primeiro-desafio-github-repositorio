@@ -3,3 +3,20 @@ Aprendizagem de git:
 - Interação com o git;
 - criando um repositorio;
 - Fazendo chaves e criando;
+
+Passo a passo para mandar para o github
+
+-cd - e coloca o repositorio:
+
+-git status - mostra que ta tudo certo;
+Se estiver em vermelho, quer dizer que tem uma pasta nova.
+
+- git add. ou -a (para adicionar os arquivos)
+vai ficar verde, quer dizer que já está lá;
+
+- git commit -m "colocar uma mensagem";
+
+-git status (avisa que precisa dar um push)
+
+-git push origin main
+(envia todos os commits para nuvem)
